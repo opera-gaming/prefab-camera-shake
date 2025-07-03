@@ -5,4 +5,4 @@
 
 Prefab for `camera_shake()` that captures the screen content in a surface and applies a shake shader.
 
-Exported to gx.games here https://gx.games/games/pqn861/screenshake/tracks/c0fd78b3-370b-4cac-aeb8-aa34a83f3435/
+Exported to gx.games here https://gx.games/games/cwdkgq/camera-shake/tracks/905f155f-f45f-457e-b58f-df9b11958e5b/
