@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shdr_camera_shake",
+  "name":"shdr_camera_shake",
+  "parent":{
+    "name":"camera-shake",
+    "path":"camera-shake.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
