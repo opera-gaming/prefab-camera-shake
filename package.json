@@ -1,6 +1,6 @@
 {
   "name": "@gamemaker/camera-shake",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Applies a screen shake effect to the camera",
   "main": "README.md",
   "repository": {
@@ -14,7 +14,7 @@
     "access": "public"
   },
   "files": [
-    "io.gamemaker.camera-shake-1.0.0.yymps",
+    "io.gamemaker.camera-shake-1.0.1.yymps",
     "README.md",
     "LICENSE"
   ],
