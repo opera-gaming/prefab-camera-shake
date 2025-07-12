@@ -1,6 +1,6 @@
 # camera-shake
 
-GameMaker prefab for `camera_shake()` pplies a screen shake effect to the camera over a given duration, with separate magnitudes for red, green, and blue color channels.
+GameMaker prefab for `camera_shake()`. Applies a screen shake effect to the camera over a given duration, with separate magnitudes for red, green, and blue color channels.
 [Try it on GX.games](https://gx.games/games/cwdkgq/camera-shake/tracks/905f155f-f45f-457e-b58f-df9b11958e5b/)
 
 ```js

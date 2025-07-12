@@ -2,7 +2,7 @@
   "name": "@gamemaker/camera-shake",
   "version": "1.0.0",
   "description": "Applies a screen shake effect to the camera",
-  "main": "index.js",
+  "main": "README.md",
   "repository": {
     "type": "git",
     "url": "https://github.com/opera-gaming/prefab-camera-shake"
@@ -14,7 +14,9 @@
     "access": "public"
   },
   "files": [
-    "io.gamemaker.camera-shake-1.0.0.yymps"
+    "io.gamemaker.camera-shake-1.0.0.yymps",
+    "README.md",
+    "LICENSE"
   ],
   "gm": {
     "visible": true,
