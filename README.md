@@ -15,3 +15,4 @@ GameMaker prefab for `camera_shake()`. Applies a screen shake effect to the came
  * @param {number} mag_g Shake magnitude for the green color channel.
  * @param {number} mag_b Shake magnitude for the blue color channel.
  */
+function camera_shake(time, mag_r, mag_g, mag_b);
