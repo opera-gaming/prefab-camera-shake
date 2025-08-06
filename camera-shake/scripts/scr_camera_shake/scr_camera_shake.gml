@@ -12,8 +12,9 @@
 function camera_shake(time, mag_r, mag_g, mag_b) {
     if (!variable_global_exists("active_camera_shake") || global.active_camera_shake == -1) {
         global.active_camera_shake = instance_create_depth(0,0,0,obj_camera_shake);
-        global.active_camera_shake.shake_length = time;
-        global.active_camera_shake.shake_mag = [ mag_r, mag_g, mag_b];
     }
+    global.active_camera_shake.t = 0;
+    global.active_camera_shake.shake_length = time;
+    global.active_camera_shake.shake_mag = [ mag_r, mag_g, mag_b];
 }
 #export camera_shake
